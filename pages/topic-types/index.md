@@ -1,11 +1,15 @@
 
-# Types
+# Type Aliases
 
 Define the structure of data or create new Types by utilizing existing types in various ways
 You can edit the following code blocks to see the changes in the editor in real-time.Hover to see type information as well.
 For example,
 
 ```ts {monaco-run}
+// literal types
+type PI = 3.14 // hover over PI to see the type, it says 3.14 instead of "number"
+type Name = 'John' // hover over Name to see the type, it says 'John' instead of "string"
+
 type Human = {
   name: string
   age: number

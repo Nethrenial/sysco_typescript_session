@@ -1,4 +1,4 @@
-# More examples of types
+# More examples of type aliases
 
 You saw an example with using it for object types, but "type" can be used to type literally anything in TypeScript.
 

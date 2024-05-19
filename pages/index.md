@@ -13,6 +13,14 @@ Level up your JS with Powerful Type Safety
     <br />
      Nethsara Sandeepa Elvitigala, Software Engineering Intern @ SWMS
   </span>
+  <div class="p-4 rounded-lg flex flex-col gap-4 bg-[#222] mt-8 text-xs">
+    <span>
+    Press <kbd>Down Arrow</kbd>/<kbd>Right Arrow</kbd>/<kbd>Space</kbd> to go to the next slide
+  </span>
+  <span>
+    Press <kbd>Up Arrow</kbd>/<kbd>Left Arrow</kbd> to go to the previous slide
+</span>
+</div>
 </div>
 
 <!--

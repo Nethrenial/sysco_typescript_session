@@ -22,3 +22,5 @@ makeSound(new Dog('Labrador')) // prints 'Woof'
 
 // however we can't use any other objects that implement AnimalLike somewhere that expects a Dog (just like in OOP)
 ```
+
+We'll see even more examples later on, but for now, let's move on to the next topic.
